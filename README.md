@@ -25,5 +25,3 @@ O projeto foi projetado para ser executado em um ambiente que suporte JavaScript
 ## Contribuições 🎁
 Contribuições são sempre bem-vindas. Se você tiver alguma sugestão para melhorar o programa, sinta-se à vontade para criar um `fork` do repositório, fazer suas alterações e enviar uma `pull request`.
 
-## Autor 🙋‍♂️
-Este projeto foi criado por um usuário do GitHub (substitua por seu nome de usuário ou nome completo).
